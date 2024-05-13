@@ -24,6 +24,12 @@ class Solution:
                 backtrack(i + 1, combination + char)
         backtrack(0, "")
         return final
+    
+sol = Solution()
+print(sol.twoSum("23"))
+print(sol.twoSum("234"))
+print(sol.twoSum("2"))
+
 
 
 
