@@ -27,4 +27,3 @@ If you have any questions or want to reach out for any reason, please contact me
 
 ---
 
-Happy Coding!
